@@ -59,7 +59,7 @@ const adjectives = ['epic', 'rare', 'common', 'trashy', 'magical', 'thunderous',
   'natty', 'nepharious', 'turgid', 'denatured', 'natural', 'bad', 'good', 'devilish', 'poisonous', 'quirky', 'regal',
   'remarkable', 'scaly', 'icy', 'snowy', 'spherical', 'massive', 'red', 'blue', 'cyan', 'mystical', 'stinking', 'puzzling',
   'small', 'tiny', 'large', 'big', 'dark', 'sympathetic', 'slow', 'rigid', 'kind', 'intrepid', 'impulsive', 'anxious', 'modern',
-  'think', 'noisy', 'small', 'thing', 'happy', 'huge', 'mature', 'peaceful']
+  'think', 'noisy', 'small', 'thing', 'happy', 'huge', 'mature', 'peaceful', 'genius', 'monster' ,'chill', 'positive']
 
 const nouns = ['sword', 'axe', 'potion', 'hammer', 'mace', 'coin', 'bag', 'archer', 'warrior', 'mage', 'unicorn',
   'deer', 'dog', 'cat', 'staff', 'bear', 'banana', 'apple', 'boots', 'armor', 'helmet', 'tower', 'forge', 'castle',
