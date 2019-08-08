@@ -33,7 +33,7 @@ export default [
       en: 'The buckle is worth more than the rest of it.',
       ru: 'Пряжка стоит больше, чем все остальное.',
       de: 'Die Schnalle ist mehr wert als der Rest.',
-      es: 'La hebilla cuesta más que el resto de la bolsa.',
+      es: 'La hebilla cuesta más que el resto.',
       fr: 'La boucle vaut plus que le reste du sac.',
       pt: 'A fivela vale mais do que o resto.',
       it: 'La fibbia vale più del resto.',
