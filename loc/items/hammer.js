@@ -33,7 +33,7 @@ export default [
       en: 'This should be hammering nails, not skulls.',
       ru: 'Это должны быть гвозди, а не черепа.',
       hi: 'इससे कील ठोकते है, खोपड़ी नहीं।',
-      es: 'Esto debería estar clavando clavos, no cráneos.',
+      es: 'Esto debería estar martillando clavos, no cráneos.',
       de: 'Das sollten hämmernde Nägel sein, nicht Schädel.',
       el: 'Αυτό πρέπει να σφυρηλατεί τα νύχια και όχι τα κρανία.',
       bg: 'Това трябва да бъде чукане на нокти, а не черепи.',
