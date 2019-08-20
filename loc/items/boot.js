@@ -32,7 +32,7 @@ export default [
       en: 'Soles made from cloth, will probably tear after a few hours.',
       ru: 'Подошвы сделанные из ткани, вероятно, порвутся через несколько часов.',
       de: 'Sohlen aus Stoff, werden wahrscheinlich nach ein paar Stunden reißen.',
-      es: 'Suelas hechas de tela, probalamente rasgarán después de unas horas.',
+      es: 'Suelas hechas de tela, probablemente rasgarán después de unas horas.',
       fr: 'Des semelles en tissu, elles se déchireront probablement au bout de quelques heures.',
       it: 'Suole fatte di stoffa, probabilmente si strappano dopo qualche ora.',
       pt: 'Solas feitas de tecido, provavelmente rasgarão depois de algumas horas.',
