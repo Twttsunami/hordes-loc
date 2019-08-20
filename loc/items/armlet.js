@@ -216,7 +216,7 @@ export default [
     description: {
       en: 'The ancient golems left remnants of their passing, which you unscrupulously have decided to wear on your arm.',
       ru: 'Древние големы оставили остатки своих похождений, которые вы бессовестно решили надеть на руку.',
-      es: 'Los golems antiguos dejaron restos de su paso, que sin escrúpulos ha decido llevar en su brazo.',
+      es: 'Los golems antiguos dejaron restos de su paso, que sin escrúpulos ha decidido llevar en su brazo.',
       fr: 'Les géants anciens ont laissé des restes de leur passage, que vous avez sans scrupule décidé de porter sur votre bras.',
       de: 'Die alten Golems hinterließen Überreste ihres Ablebens, die du skrupellos auf deinem Arm getragen hast.',
       pt: 'Os antigos gigantes deixaram vestígios de sua passagem, que você, sem escrúpulos, decidiu usar em seu braço.',
@@ -270,7 +270,7 @@ export default [
     description: {
       en: 'Stars are not often black, yet this fragment has a... deep... deep darkness.',
       ru: 'Звезды не часто черны, но этот фрагмент имеет... глубокую... глубокую тьму.',
-      es: 'Normalmente, las estrellas no son negras, pero eso trozo tiene un intenso... intenso... oscuridad.',
+      es: 'Normalmente, las estrellas no son negras, pero eso trozo tiene una intensa... intensa... oscuridad.',
       fr: 'Les étoiles ne sont pas souvent noires, mais ce fragment a une... très... très profonde obscurité.',
       de: 'Sterne sind nicht oft schwarz, aber dieses Fragment hat eine... tiefe... tiefe... tiefe Dunkelheit.',
       pt: 'As estrelas não são normalmente negras, mas este fragmento tem uma... profunda... profunda escuridão.',
